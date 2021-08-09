@@ -101,6 +101,7 @@ nav a:hover {
 #upvotes-section button, h5 {
   font-size: .9em;
   display: inline-block;
+  float: right;
   margin-right: 16px;
   border-radius: 1.6em;
 }
